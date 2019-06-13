@@ -1,0 +1,3 @@
+[{"id":1,"nombreCurso":"Java","documento":123,"nombre":"Nubia Perea","correo":"npereap@mail.com","telefono":2113456},
+    {"id":2,"nombreCurso":"cpp","documento":123,"nombre":"Nubia Perea","correo":"npereap@mail.com","telefono":2113456},
+    {"id":1,"nombreCurso":"Java","documento":456,"nombre":"Santy Mejía","correo":"santy@mail.com","telefono":4567899}]
